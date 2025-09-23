@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "ab21bf78-9a09-4d77-153e-9575b1da58aa",
+  "instructors": {
+    "content": [
+      "1f622301-6920-2c5b-e56f-ec70ddca51a0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f3f02f4d-f67e-d359-def8-909015647fb3",
+    "website": "4-42j-fundamentals-of-energy-in-buildings-fall-2010"
+  },
+  "course_title": "Fundamentals of Energy in Buildings",
+  "course_description": "This design-based subject provides a first course in energy and thermo-sciences with applications to sustainable energy-efficient architecture and building technology. No previous experience with subject matter is assumed. After taking this subject, students will understand introductory thermodynamics and heat transfer, know the leading order factors in building energy use, and have creatively employed their understanding of energy fundamentals and knowledge of building energy use in innovative building design projects. This year, the focus will be on design projects that will complement the new NSTAR/MIT {{% resource_link \"bb37b84d-9231-473b-955d-dee0ebecaa9f\" \"campus efficiency program\" %}}.\n",
+  "department_numbers": [
+    "4",
+    "1",
+    "2"
+  ],
+  "extra_course_numbers": "1.044J,2.45J",
+  "primary_course_number": "4.42J",
+  "course_image_thumbnail": {
+    "content": "f874ae56-8df8-4601-9bbb-12cdebcd43e3",
+    "website": "4-42j-fundamentals-of-energy-in-buildings-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Projects with Examples",
+    "Design Assignments"
+  ],
+  "site_uid": "2d3b0472-1073-4a19-9978-112c95fdab88",
+  "site_short_id": "4.42j-fall-2010",
+  "site_url_path": "courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010",
+  "title": "Course Metadata"
+}
