@@ -351,7 +351,7 @@ Chapter 16, 17A, and 20D
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Tour: Building 68, {{% resource_link "2c51d015-91a3-4b8b-86f0-1e94167366be" "Koch Biology Building" %}}; and Building N51, {{% resource_link "fb8aea43-f208-4ac5-b2f8-f277cb8a0f80" "MIT Museum" %}} and the {{% resource_link "15eef902-ad64-4976-b989-18ac59391d1f" "Digital Design Fabrication Group" %}}
+Tour: Building 68, [Koch Biology Building](http://whereis.mit.edu/?go=68); and Building N51, [MIT Museum](http://web.mit.edu/museum/) and the [Digital Design Fabrication Group](http://ddf.mit.edu/)
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 16, 17A, and 20D

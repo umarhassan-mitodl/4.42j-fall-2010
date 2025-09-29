@@ -5,6 +5,8 @@ description: This resource contains 4 problem statements related to efficiency o
 file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a23f265c416f271a8ab137c59cb68568_MIT4_42JF10_assn02.pdf
 file_size: 60135
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
