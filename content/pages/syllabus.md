@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, assignments and evaluations, and the course textbook.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -27,7 +25,7 @@ Prerequisites
 Course Overview
 ---------------
 
-This design-based subject provides a first course in energy and thermo-sciences with applications to sustainable energy-efficient architecture and building technology. No previous experience with subject matter is assumed. After taking this subject, students will understand introductory thermodynamics and heat transfer, know the leading order factors in building energy use, and have creatively employed their understanding of energy fundamentals and knowledge of building energy use in innovative building design projects. This year, the focus will be on design projects that will complement the new NSTAR/MIT [campus efficiency program](http://web.mit.edu/newsoffice/2010/nstar-mit-0526.html).
+This design-based subject provides a first course in energy and thermo-sciences with applications to sustainable energy-efficient architecture and building technology. No previous experience with subject matter is assumed. After taking this subject, students will understand introductory thermodynamics and heat transfer, know the leading order factors in building energy use, and have creatively employed their understanding of energy fundamentals and knowledge of building energy use in innovative building design projects. This year, the focus will be on design projects that will complement the new NSTAR/MIT {{% resource_link "650c4054-5f35-49ae-a0fd-24dac3662f90" "campus efficiency program" %}}.
 
 Assignments and Evaluations
 ---------------------------

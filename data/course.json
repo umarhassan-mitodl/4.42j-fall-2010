@@ -33,8 +33,7 @@
     "website": "4-42j-fundamentals-of-energy-in-buildings-fall-2010"
   },
   "course_title": "Fundamentals of Energy in Buildings",
-  "hide_download": true,
-  "course_description": "This design-based subject provides a first course in energy and thermo-sciences with applications to sustainable energy-efficient architecture and building technology. No previous experience with subject matter is assumed. After taking this subject, students will understand introductory thermodynamics and heat transfer, know the leading order factors in building energy use, and have creatively employed their understanding of energy fundamentals and knowledge of building energy use in innovative building design projects. This year, the focus will be on design projects that will complement the new NSTAR/MIT [campus efficiency program](http://web.mit.edu/newsoffice/2010/nstar-mit-0526.html).\n",
+  "course_description": "This design-based subject provides a first course in energy and thermo-sciences with applications to sustainable energy-efficient architecture and building technology. No previous experience with subject matter is assumed. After taking this subject, students will understand introductory thermodynamics and heat transfer, know the leading order factors in building energy use, and have creatively employed their understanding of energy fundamentals and knowledge of building energy use in innovative building design projects. This year, the focus will be on design projects that will complement the new NSTAR/MIT {{% resource_link \"650c4054-5f35-49ae-a0fd-24dac3662f90\" \"campus efficiency program\" %}}.\n",
   "department_numbers": [
     "4",
     "1",
@@ -46,7 +45,6 @@
     "content": "f874ae56-8df8-4601-9bbb-12cdebcd43e3",
     "website": "4-42j-fundamentals-of-energy-in-buildings-fall-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",
